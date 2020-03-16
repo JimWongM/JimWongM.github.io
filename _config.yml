@@ -19,7 +19,13 @@ sidebar-about-description: "Goals determine what you going to be!"
 # SNS settings
 RSS: false
 
-
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
 
 # Build settings
