@@ -16,6 +16,7 @@ tags:
 --2011.Proceedings of the Third International Conference on Privacy,Security,Risk and Trust.
 
 ```
+
 An attacker wishing to de-anonymize its users will attempt to construct the one-to-many mapping between users and public-keys and associate
 information external to the system with the users. Bitcoin frustrates this attack by storing the mapping of a user to his or her public-keys on that user’s node only and by allowing each user to generate as many public-keys as required.
 
