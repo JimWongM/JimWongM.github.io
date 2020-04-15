@@ -3,7 +3,7 @@ layout:     post
 title:      Community Detection
 date:       2020-4-9
 author:     Firef1y
-header-img:    img/home-bg-hacker.jpg
+header-img:    img/home-bg-geek.jpg
 catalog: true
 tags:
     - paper
