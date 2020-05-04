@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Community Detection
+title:      Community Detection(2)
 date:       2020-4-9
 author:     Firef1y
 header-img:    img/home-bg-rwd.jpg
